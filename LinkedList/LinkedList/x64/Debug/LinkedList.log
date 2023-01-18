@@ -1,0 +1,2 @@
+﻿  pch.cpp
+C:\Users\home\Downloads\Estrutura de Dados\LinkedList\LinkedList\pch.h(7,10): fatal error C1083: Não é possível abrir arquivo incluir: 'gtest/gtest.h': No such file or directory
