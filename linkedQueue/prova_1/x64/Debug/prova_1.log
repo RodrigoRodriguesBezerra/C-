@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\home\Downloads\Estrutura de Dados\linkedQueue\prova_1\Prova.h(96,41): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\home\Downloads\Estrutura de Dados\linkedQueue\prova_1\Prova.h(124): warning C4715: 'balanceamentoParenteses': nem todos os caminhos de controle retornam um valor
+  prova_1.vcxproj -> C:\Users\home\Downloads\Estrutura de Dados\linkedQueue\prova_1\x64\Debug\prova_1.exe
